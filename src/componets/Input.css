@@ -1,0 +1,15 @@
+label {
+    margin-right: 10px;
+    
+}
+input {
+    border: none;
+    width: 100%;
+    height: 35px;
+    border-radius: 5px;
+}
+.input_contain {
+    display: flex;
+    flex-direction: column;
+    gap: 90px;
+}
